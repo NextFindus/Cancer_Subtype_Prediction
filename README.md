@@ -4,6 +4,8 @@ This project is based on the paper 'A pan-tissue DNA-methylation epigenetic cloc
 It includes the AltumAge model and ElasticNet from the paper and an additional transformer model, These models are compared in regards to their performance in ge prediction on tissue specific methylation datasets.
 AltumAge and the transformer are further analyzed to determine the most important CpG sites and therefore genes for age prediction in the specific tissue.
 
+R scripts and Neural Network architecture provided by Nadine Kurz.
+
 ## Overview:
 
 ### Preprocessing:
